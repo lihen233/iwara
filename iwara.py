@@ -24,7 +24,7 @@ cookie = ""
 # 设置为True 开启DEBUG模式
 DEBUG = False
 # 自定义下载路径
-ROOT_DIR = r"/content/drive/Shareddrives/sakura/二次元同步"
+ROOT_DIR = r"/content/drive/MyDrive"
 # thread num
 THREAD_NUM = 8
 

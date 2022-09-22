@@ -13,8 +13,7 @@
 - [x] 多线程下载（默认8线程，`THREAD_NUM=8`）
 - [x] 日志记录功能，支持`debug`模式打印更多`log` (`DEBUG=True`)
 
-
-
+原项目：https://github.com/WriteCode-ChangeWorld/Tools
 ## 使用方法
 
 ### 1、ROOT_DIR
